@@ -1,6 +1,7 @@
 <div align="center">
 
-# Hi, I'm DD 👋
+# web developer / Mechanical Design Engineer / Fire Protection Engineer
+
 
 **웹 개발을 배우고, 만들고, 기록하는 중**
 
