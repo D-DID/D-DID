@@ -2,11 +2,9 @@
 
 # web developer / Mechanical Design Engineer / Fire Protection Engineer
 
-
 **웹 개발을 배우고, 만들고, 기록하는 중**
 
 <a href="https://arkive45.tistory.com"><img src="https://img.shields.io/badge/Blog-Tistory-EB531F?style=for-the-badge&logo=tistory&logoColor=white" alt="Tistory"></a>
-<img src="https://img.shields.io/badge/Status-Learning-B97FD1?style=for-the-badge" alt="Status">
 
 </div>
 
@@ -17,7 +15,7 @@
 - 🌱 HTML/CSS/JS → React까지 웹 프론트엔드를 배우는 중
 - 🗄️ DB(MySQL)와 Spring Boot / JPA로 백엔드도 같이 공부 중
 - 📝 배운 내용은 블로그에 정리: [arkive45.tistory.com](https://arkive45.tistory.com)
-- 🛠️ 온라인 유통 유아용픔 리콜 판단 크롬 확장 프로그램 콘텐츠 프로젝트 제작 중
+- 🛠️ 온라인 유통 유아용품 리콜 판단 크롬 확장 프로그램 콘텐츠 프로젝트 제작 중
 
 ## 🛠️ Tech Stack
 
@@ -39,14 +37,13 @@
 
 ## 📌 개인 페이지
 
-| [D-DID.github.io](https://d-did.github.io/) | 
+👉 [D-DID.github.io](https://d-did.github.io/)
 
-## 📊 GitHub Stats
+## 📊 Most Used Languages
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=D-DID&show_icons=true&theme=radical&hide_border=true" height="160" alt="stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D-DID&layout=compact&theme=radical&hide_border=true" height="160" alt="top langs">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D-DID&layout=compact&theme=radical&hide_border=true&hide=batchfile" alt="top langs">
 
 </div>
 
