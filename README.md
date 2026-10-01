@@ -38,7 +38,7 @@
 
 ## 📌 개인 페이지
 
-| [D-DID.github.io](https://github.com/D-DID/D-DID.github.io) | 
+| [D-DID.github.io](https://d-did.github.io/) | 
 
 ## 📊 GitHub Stats
 
@@ -52,4 +52,4 @@
 ## 📫 Contact
 
 - Blog: [arkive45.tistory.com](https://arkive45.tistory.com)
-- Email: `your@email.com` <!-- 본인 메일로 교체 -->
+- Email: `pccream@enaver.com`
